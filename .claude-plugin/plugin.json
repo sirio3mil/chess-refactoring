@@ -1,0 +1,14 @@
+{
+  "name": "chess-refactoring",
+  "displayName": "Chess Refactoring",
+  "version": "0.1.0",
+  "description": "AI-assisted refactoring played like chess: a target position reached through small, verifiable moves that a human reviews one at a time.",
+  "author": {
+    "name": "Reynier de la Rosa",
+    "url": "https://github.com/sirio3mil"
+  },
+  "homepage": "https://github.com/sirio3mil/chess-refactoring",
+  "repository": "https://github.com/sirio3mil/chess-refactoring",
+  "license": "MIT",
+  "keywords": ["refactoring", "code-review", "incremental-change", "ai-assisted-development"]
+}
